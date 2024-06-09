@@ -11,7 +11,7 @@ See the `README.md` file under each folder for details on installing and running
 
 If you have any problems installing or running this code, please post to the [discussion board for the course](https://app.pluralsight.com/library/courses/angular-2-getting-started-update/discussion)
 
-NOTE: The installation was tested using node v16.15.1 and npm 8.11.0.
+NOTE:   The installation was tested using node v16.15.1 and npm 8.11.0.
 
 ## LINKS
 Here are some links to additional useful materials on YouTube:
