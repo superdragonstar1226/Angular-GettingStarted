@@ -1,7 +1,7 @@
 # Angular-Getting Started
 Materials for the ["Angular: Getting Started"](http://bit.ly/Angular-GettingStarted) course on Pluralsight.
 
-`APM-Start`: The starter files set up for this course. **Use this to code along with the course**. (Updated for <i>Angular version 14</i>)
+`APM-Start`: The starter files set up for this    course. **Use this to code along with the course**. (Updated for <i>Angular version 14</i>)
 
 `APM-Final`: The completed files. Use this to see the completed solution from the course. (Updated for <i>Angular version 14 </i>)
 
@@ -11,7 +11,7 @@ See the `README.md` file under each folder for details on installing and running
 
 If you have any problems installing or running this code, please post to the [discussion board for the course](https://app.pluralsight.com/library/courses/angular-2-getting-started-update/discussion)
 
-NOTE: The installation was tested using node v16.15.1 and npm 8.11.0.
+NOTE:   The installation was tested using node v16.15.1 and npm 8.11.0.
 
 ## LINKS
 Here are some links to additional useful materials on YouTube:
